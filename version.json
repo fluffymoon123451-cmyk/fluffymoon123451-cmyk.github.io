@@ -1,6 +1,57 @@
 {
   "latestVersion": "2.1.1",
-  "changes": [
-    "Added version checker"
+  "releases": [
+    {
+      "version": "1.1",
+      "type": "Expansion",
+      "changes": [
+        "Added DS support",
+        "Added Sega Genesis and Virtual Boy support",
+        "Added MP4 support"
+      ]
+    },
+    {
+      "version": "1.2",
+      "type": "Expansion",
+      "changes": [
+        "Added custom category",
+        "Added PenguinMod in the custom category"
+      ]
+    },
+    {
+      "version": "1.3",
+      "type": "QoL update",
+      "changes": [
+        "Added custom themes"
+      ]
+    },
+    {
+      "version": "2.0",
+      "type": "Expansion",
+      "changes": [
+        "Added Paper Minecraft"
+      ]
+    },
+    {
+      "version": "2.0.1",
+      "type": "Expansion",
+      "changes": [
+        "Added YouTube support (works but needs improvement)"
+      ]
+    },
+    {
+      "version": "2.1",
+      "type": "Bug fix",
+      "changes": [
+        "Fixed YouTube search failing after 9 AM"
+      ]
+    },
+    {
+      "version": "2.1.1",
+      "type": "QoL update",
+      "changes": [
+        "Added version checker"
+      ]
+    }
   ]
 }
